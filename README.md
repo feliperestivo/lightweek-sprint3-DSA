@@ -73,12 +73,4 @@ lightweek-sprint3-DSA/
 
 A explicação da classe, do funcionamento, dos algoritmos e da análise Big-O está no arquivo [`DOCUMENTACAO.md`](DOCUMENTACAO.md).
 
-## Testes
 
-Para executar os testes:
-
-```bash
-python -m unittest discover -s tests -v
-```
-
-Os testes conferem o cálculo do custo, a busca sequencial, as opções de ordenação e as estatísticas.
